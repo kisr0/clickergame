@@ -5,5 +5,4 @@ A kezdéshez csak kattintson a középső varázsló pálcára, és már is kapn
 Ahogy vásárlunk a játék folyamán varázsló sapkát, varázslót, és boszorkányt, automatikus pontokat kapunk amik másodpercenként adnak pontot, de vigyázzunk, mert az áruk is úgy megy fel.
 
 
-![image](https://github.com/user-attachments/assets/d16ec65e-6144-4bf3-aac8-d411d1607186)
-Képernyőkép a játékról
+![image](https://github.com/user-attachments/assets/d16ec65e-6144-4bf3-aac8-d411d1607186) Képernyőkép a játékról
